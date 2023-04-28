@@ -1,0 +1,74 @@
+button{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+param{
+  margin-left: 2000px;
+  margin-right: 20px;
+  color: purple;
+}
+button{
+  transition: 0.8s;
+  background-color: rgb(5, 151, 5);
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+.back-button {
+  margin-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 16px;
+}
+
+.search-result {
+  margin-left: 4px;
+  margin-right: 4px;
+  font-size: 18px;
+}
+
+.next-button {
+  margin-left: 8px;
+  margin-right: 100px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.Stretch{
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.Stretch:hover{
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+}
+
+.Shadow{
+  vertical-align: top;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.35);
+  transition: 0s;
+}
+.Shadow:active{
+  margin-top: 2px;
+  margin-left: 2px;
+  box-shadow: none;
+}
+.one{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 7px;
+  margin-right: 7px;
+  transition: 0.3s;
+}
+.one:hover{
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
+}

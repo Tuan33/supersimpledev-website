@@ -1,0 +1,149 @@
+.box{
+background-color: rgb(43, 42, 42);
+color: white;
+width: 400px;
+}
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 15px ;
+  margin-bottom: 7px;
+}
+.description{
+  padding-bottom: 15px;
+  opacity: 0.5;
+}
+.tweet{
+  width: 540px;
+  box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.5);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 7px;
+  margin-left: 10px;
+}
+.picture-tweet{
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+.title-tweet{
+  border: none;
+  font-size: 24px;
+  vertical-align: middle;
+  margin-left: 10px;
+  padding-right: 60px;
+}
+.Tweet-button{
+  vertical-align: middle;
+  background-color: rgb(19, 181, 246);
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 20px;
+}
+.facebook{
+  width: 300px;
+  display: inline-block;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3);
+  margin-right: 15px;
+}
+.avatar{
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+p{
+  font-family: Arial;
+}
+.name{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.friends{
+  opacity: 0.6;
+}
+.add{
+  background-color: rgb(46, 125, 236);
+  color: white;
+  width: 110px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border: none;
+  border-radius: 3px;
+}
+.name,.add,.friends{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.google{
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.google-input{
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  width: 500px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+ }
+
+.what{
+
+}
+.Search{
+  background-color: rgb(245, 245, 245);
+  border: none;
+  font-size: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.lucky{
+  background-color: rgb(245, 245, 245);
+  border: none;
+  font-size: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+}
+.friends{
+  display: inline-block;
+  vertical-align: middle;
+}
+.smallava{
+  height: 28px;
+  width: 28px;
+  object-fit: cover;
+  border-radius: 14px;
+  vertical-align: middle;
+  margin-right: 4px;
+  margin-left: 10px;
+}
+.q31{
+  display: inline-block;
+}
+.q32{
+  display: inline-block;
+}
